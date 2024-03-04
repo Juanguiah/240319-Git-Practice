@@ -1,7 +1,7 @@
 # Esto es un título H1
 ## Esto es un título H2
 ### Esto es un título H3
-Esto es un texto descriptivo **texto en negrita**
+Esto es un texto descriptivo **texto en negrita****texto nuevo**
 > Esto es un bloque de texto
 - Esto es una lista
 - item 1
